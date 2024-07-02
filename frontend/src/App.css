@@ -1,0 +1,12 @@
+.App {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .video-upload {
+    margin-bottom: 20px;
+  }
+  
+  input[type="file"] {
+    margin-right: 10px;
+  }
